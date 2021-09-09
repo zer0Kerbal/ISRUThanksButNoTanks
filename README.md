@@ -20,7 +20,7 @@ CKAN:StockalikeMiningExtension
 
 #### Adopted by [@zer0Kerbal][LINK:zer0kerbal], originally by [@QuickBASIC][LINK:QuickBASIC]  
 
-![Mod Version][MOD:shld:latest] ![KSP version][KSP:shld]  [![License GPLv3][LICENSE:shld]][LICENSE:url] [![GPLv3 Logo][LICENSE:logo]][LICENSE:url]  
+![Mod Version][MOD:shld:latest] ![KSP version][KSP:shld]  [![License Expat-MIT][LICENSE:shld]][LICENSE:url] [![Expat-MIT][LICENSE:logo]][LICENSE:url]  
 
 [![Curseforge][CURSFG:shld]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shld]][GITHUB:url] [![SpaceDock][SPCDCK:shld]][SPCDCK:url]  
 
