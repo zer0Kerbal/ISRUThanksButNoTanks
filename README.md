@@ -123,7 +123,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 - [x]  [Kerbal Changelog][thread:kcl]  
 - [x]  [Community Resource Pack][thread:crp]  
 
-- [x]  [TweakScale][thread:tweakscale]
+- [x]  [TweakScale][thread:twk]
 
 ### Supports
 
@@ -160,7 +160,8 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 Forum: [Thread][MOD:thread]  
 Source: [GitHub][GITHUB:url]  
-License: ![License Expat-MIT][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo] ][LICENSE:url]  
+License: [![License Expat-MIT][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo]][LICENSE:url]  
+
 > *** All bundled mods are distributed under their own licenses***  
 > *** All art assets (textures, models, animations) are distributed under their own licenses***  
 
@@ -169,7 +170,7 @@ License: ![License Expat-MIT][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo] ][L
 [Thread][MOD:original:thread]  
 [Download][MOD:original:download]  
 Source: [GitHub][MOD:original:source]  
-License: ![License Expat-MIT][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo] ][LICENSE:url]    
+License: [![License Expat-MIT][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo]][LICENSE:url]    
 
 <!-- graphical links to downloads -->
 [![][CURSFG:img]][CURSFG:url] [![][GITHUB:img]][GITHUB:url] [![][SPCDCK:img]][SPCDCK:url]  
