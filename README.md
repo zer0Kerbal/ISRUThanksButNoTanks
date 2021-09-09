@@ -128,7 +128,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 ### Supports
 
 - [x]  [Kerbal Change Log][thread:kcl]  
-- [x]  [Stockalike Mining Extension][thread:smx] 
+- [x]  [Stockalike Mining Extension][thread:smx]  
 
 ### Conflicts
 
