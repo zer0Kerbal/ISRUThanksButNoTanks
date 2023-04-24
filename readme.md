@@ -61,6 +61,10 @@ Most recent releases only available via CurseForge/OverWolf Website/App
   * [Monero Flags (QBMF)][QBMF]
   * [Kerbal Inventory System No Fun (QBNF)][QBUS]
 
+### Supports
+
+* [Stockalike Mining Extension (smx)][smx]
+
 ### Tags
 
 * config, parts, patch
@@ -164,6 +168,7 @@ Comment, click, like, share, up-vote, subscribe
 
 [MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
 [m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[smx]: https://github.com/SuicidalInsanity/Stockalike-Mining-Extension "Stockalike Mining Extension (smx)"
 
 <!--- statics -->
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/  "QuickBASIC"
